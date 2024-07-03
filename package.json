@@ -1,14 +1,16 @@
 {
-  "name": "express-learn",
+  "name": "1-templates",
   "version": "1.0.0",
-  "description": "how to use express",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "sanil",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "hbs": "^4.2.0"
   }
 }
