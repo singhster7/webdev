@@ -13,7 +13,7 @@ let todos = ["Cricket", "Dance", "Sing", "Hockey"];
 app.get('/', (req, res) => {
     res.render('index', {//res.render tmapltes me use hoga
         //index jisme file hai temlate wali,views ke andar
-        firstname: "Rahul",
+        firstname: "Rahulve",
         lastname: "Yadav",
         todos
     })
